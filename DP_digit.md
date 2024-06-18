@@ -29,3 +29,5 @@ using digit DP, count the total number of digit 1 appearing in all non-negative 
 ### composited:
 - `dp[dex] [digit] [at_limit: bool] [one's_count]` = count of 1's in `numbers <= n`, up to the index i
 
+## got'chas:
+- what baout when there are zero's involved (think, leading digits)
